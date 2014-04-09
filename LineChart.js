@@ -2,7 +2,9 @@
 	LineChart.js
 	Draw simple line chart on HTML canvas
 	
-	Sparisoma Viridi <dudung@gmail.com>
+	Copyright 2014 Sparisoma Viridi
+	Release under the MIT license
+	https://github.com/dudung/LineChart.js/blob/master/LICENSE
 	
 	References
 		Chart.js by Nick Downie
