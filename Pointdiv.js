@@ -56,14 +56,3 @@ function circle(x, y, R) {
 		point(xx, yy, linecolor, parent);
 	}
 }
-
-setparent("blank");
-setlinewidth(1);
-setlinecolor("red");
-circle(80, 100, 50);
-setlinewidth(2);
-setlinecolor("green");
-circle(150, 70, 50);
-setlinewidth(3);
-setlinecolor("blue");
-circle(220, 100, 50);
