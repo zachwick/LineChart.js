@@ -35,6 +35,7 @@ function point(x, y) {
 	div.style.position = "absolute";
 	div.style.left = x;
 	div.style.top = y;
+	div.innerHTML = "";
 	
 	var xmin = 0;
 	var ymin = 0;
